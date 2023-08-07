@@ -8,15 +8,15 @@
 
 <br/>
 
-<center>
+<!-- <center>
 
-<!-- [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/wifesunsdev/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/wifesunsdev/Portfolio?color=red&logo=github&style=for-the-badge) -->
+![GitHub forks](https://img.shields.io/github/forks/wifesunsdev/Portfolio?color=red&logo=github&style=for-the-badge)
 
-</center>
+</center> -->
 
 <h3 align="center">
     🔹
@@ -64,7 +64,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
-## Usage Instructions
+<!-- ## Usage Instructions -->
 
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
